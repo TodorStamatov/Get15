@@ -31,5 +31,3 @@ opponetTurnMark, which makes the label of the number selected by the opponent in
 submitted message in the information area. Features that if the player is on the move and clicks on a visible label, he becomes invisible, the number of it is adds your 
 numbers in the field and sends a message to the server about the move. There is also a feature that shows when you click on the game rules buttonwindow with their 
 detailed description. In the initialize method of the controller, the object is initialized by a team client and the current controller is assigned to its controller data.
-
-!(/prnt.sc/ilFE0YScKg1b)
