@@ -12,6 +12,7 @@ to RMI server. Callback is used for this purpose. Scene Builder is used for deve
 
 **Interface Callback** – interface implemented by the CallbackImp class, in which are defined methods helping the server to inform the client when it is his turn,
 send him a message in the text area and inform him for about a move made by his opponent
+
 **Class CallbackImp** – contains private field of type Client, as well as the implementation of each of the methods declared in the Interface Callback 
 
 **Interface ServerInterface** - interface implemented by the ServerImp class, in which are defined two methods: connect, which takes an object of type Callback and returns
